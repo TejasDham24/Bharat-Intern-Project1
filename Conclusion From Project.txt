@@ -1,0 +1,11 @@
+Conclusion:
+1. Price Distribution: House prices are evenly spread, with no extreme values.
+
+2. Key Feature: House size is the most important factor in predicting prices; other features matter less.
+
+3. XGBoost Performance: The XGBoost model predicts prices almost perfectly, with very little error.
+
+4. Feature Importance: In the Random Forest model, house size stands out as the most important predictor.
+
+5. Model Reliability: Both models are highly accurate and reliable for predicting house prices.
+
